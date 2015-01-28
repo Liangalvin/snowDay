@@ -1,0 +1,40 @@
+1 What is the difference between an API and a server?
+
+An API (Application Program Interface) is software from the internet to provide a service.
+It allows for programmers to develop a program from that software,
+with various information depending on the blocks of information that's used because API's are fun.
+A server is a computer that responds to requests from clients (basically providing requested information)
+because they are simple and boring.
+
+
+2 What does a DNS server do when you type "www.google.com" into an address bar?
+
+It uses technological witchcraft to turn the name into an IP address since
+names are easier to recall then long numerical values separated by periods.
+
+
+3 What are some differences between a single page application and a multipage application?
+List one example of each.
+
+The difference between a SPA and MPA is the structure of the information.
+
+Single page apps load everything one time and heavily manipulate's it's DOM depending on
+the user's request of information(rarely refreshing the page SAVING MONEY ON RESOURCES!).
+
+Multi page apps request for new HTML, CSS, JS, JPG's and various other information
+depending on the user's request of information (big resource players consuming
+resources in the digital world because they BALLING).
+
+
+4 Why do we use RESTful routes?
+
+Using a verb in the URL makes it more action packed and exciting. The action
+packed premise provides for shorter URL's easier for creating, reading,
+updating and destroying information. CRUD!!
+
+
+5 What is an API key and why are they used?
+
+An API key is a unique key(password) provided by that API god(provider, company, random person, myself?).
+They key is tracked to see where requests are coming from and how the API is being used. Depending on how
+much you donate to that API god's cause(pricing plan), you are allowed various access rights.
